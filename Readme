@@ -1,0 +1,5 @@
+open angular project folder in Visual studio code
+after that open terminal and install npn using this command
+" npm install "
+
+after that you can run ng serve command to run this project. 
